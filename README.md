@@ -4,9 +4,9 @@ Sou Lucas Conceição Lima, desenvolvedor de software especializado em React, No
 
 ## Sobre mim
 
-- 🎓 Formação: Tecnologia em Sistemas para Internet.
+- 🎓 Formação: Tecnologia em Sistemas para Internet. Cursando pós-graduação em Inteligência Artificial e Big Data.
 - 💼 Principais habilidades: React, Node.js, Express, Material UI, SQL.
-- 🌱 Atualmente estudando: TypeScript, PLSQL e japonês.
+- 🌱 Atualmente estudando: TypeScript, Python, PLSQL e japonês.
 - 🚀 Interesses: Desenvolvimento web, análise de dados e aprender idiomas.
 
 ## Onde me encontrar?
