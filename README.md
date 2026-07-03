@@ -1,12 +1,12 @@
-# Olá! 👋
+# Olá, eu sou Lucas Conceição Lima 👋
 
-Sou Lucas Conceição Lima, desenvolvedor de software especializado em React, Node.js, Express, Material UI e SQL. Com formação em Tecnologia em Sistemas para Internet, sou apaixonado por tecnologia, aprendizado contínuo e por enfrentar novos desafios.
+Sou desenvolvedor de software com foco em React, NestJS, TypeScript, Material UI e SQL, atualmente estudando .NET e RabbitMQ.
 
 ## Sobre mim
 
-- 🎓 Formação: Tecnologia em Sistemas para Internet. Cursando pós-graduação em Inteligência Artificial e Big Data.
-- 💼 Principais habilidades: React, Node.js, Express, Material UI, SQL.
-- 🌱 Atualmente estudando: TypeScript, Python, PLSQL e japonês.
+- 🎓 Formação: Tecnologia em Sistemas para Internet.
+- 💼 Principais habilidades: React, NestJS, TypeScript, Material UI, SQL.
+- 🌱 Atualmente estudando: .NET, RabbitMQ e japonês.
 - 🚀 Interesses: Desenvolvimento web, análise de dados e aprender idiomas.
 
 ## Onde me encontrar?
