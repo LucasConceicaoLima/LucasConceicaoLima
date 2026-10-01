@@ -26,9 +26,9 @@ AWS • GitHub Actions • Git • Netlify
 ## 🚀 Projetos em destaque
 
 - **MegaTen Build Calculator** — Aplicação full stack para cálculo de builds de RPG, desenvolvida com React, TypeScript e NestJS, com arquitetura e implantação voltadas à AWS.
-- **Mensageria** — E-commerce assíncrono utilizando React, NestJS, RabbitMQ, Prisma/MySQL e Jest para simular processamento de pedidos, retry e DLQ.
+- **Mensageria RabbitMQ** — E-commerce assíncrono utilizando React, NestJS, RabbitMQ, Prisma/MySQL e Jest para simular processamento de pedidos, retry e DLQ.
 - **Sales BI Dashboard** — Projeto end-to-end de Business Intelligence com Python/Pandas, PostgreSQL, modelagem dimensional, DAX e Power BI.
-- **Todo Agents Lab** — Projeto criado para estudar AI coding agents e arquivos `AGENTS.md` em uma aplicação full stack com React, TypeScript e NestJS.
+- **Agentic To-Do List** — Projeto criado para estudar AI coding agents e arquivos `AGENTS.md` em uma aplicação full stack com React, TypeScript e NestJS.
 
 ## 🌱 Atualmente
 
